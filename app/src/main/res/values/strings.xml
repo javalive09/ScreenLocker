@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">锁屏</string>
+    <string name="lock_str">激活后就能一键锁屏了</string>
+    <string name="activite_success">激活成功，点击图标即可锁屏</string>
+    <string name="activite_fail">点击激活就可以一键锁屏了^_^</string>
+
+</resources>
